@@ -642,7 +642,8 @@ img {
     left: 0;
   }
   .specs__img {
-    position: initial;
+    position: absolute;
+    right: -19rem;
   }
   .specs__container {
     grid-template-columns: repeat(2, 1fr);
